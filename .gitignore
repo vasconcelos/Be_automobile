@@ -219,9 +219,6 @@ pip-log.txt
 ## CODE WARRIOR
 ######################################
 
-code/BBE_Automobile_app/BE_Automobile_app_Data/*
+code/BE_Automobile_app/BE_Automobile_app_Data/*
 code/BE_Automobile_app/bin/*
 code/BE_Automobile_app/lcf/*
-
-
-
