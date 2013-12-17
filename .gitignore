@@ -213,3 +213,15 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+
+######################################
+## CODE WARRIOR
+######################################
+
+code/Be_auto_app/Be_auto_app_Data/*
+code/Be_auto_app/bin/*
+code/Be_auto_app/lcf/*
+
+
+
